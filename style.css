@@ -1,13 +1,42 @@
 #menu
 {
+
     height: 100%;
-    width: 18%;
+    width: 15%;
     position: fixed;
     z-index: 1;
-    top: 0;
+    bottom: 0;
     left: 0;
-    background-color: black;
+    background-color: gray;
     overflow-x: hidden;
-    padding-top: 60px;
-    transition: 0.5s;
+    padding: 40px;
+    
+}
+a {
+    color: rgb(0, 0, 0);
+    background-color: rgb(173, 173, 173);
+    display: block;
+    width: 100%;
+    padding: 12px;
+
+    margin-left: 0;
+    margin-bottom: -18px; 
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(65, 65, 65);
+}
+
+a:active {
+    text-decoration: none;
 }
