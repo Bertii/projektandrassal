@@ -7,17 +7,17 @@
     z-index: 1;
     bottom: 0;
     left: 0;
-    background-color: gray;
+    background-color: gray;     
     overflow-x: hidden;
     padding: 40px;
     
 }
 a {
     color: rgb(0, 0, 0);
-    background-color: rgb(173, 173, 173);
+    background-color: gray;
     display: block;
     width: 100%;
-    padding: 12px;
+    padding: 10px;
 
     margin-left: 0;
     margin-bottom: -18px; 
@@ -39,4 +39,19 @@ a:hover {
 
 a:active {
     text-decoration: none;
+}
+#page{
+    text-align:center   
+}
+.lotto-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: white;
+}
+#lotto-image {
+    width: 100%;
+    border-radius: 50%; /* Kör alakú kép */
 }
