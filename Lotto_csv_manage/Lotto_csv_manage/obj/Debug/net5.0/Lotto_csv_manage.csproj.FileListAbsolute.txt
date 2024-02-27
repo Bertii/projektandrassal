@@ -1,0 +1,16 @@
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\bin\Debug\net5.0\Lotto_csv_manage.exe
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\bin\Debug\net5.0\Lotto_csv_manage.deps.json
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\bin\Debug\net5.0\Lotto_csv_manage.runtimeconfig.json
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\bin\Debug\net5.0\Lotto_csv_manage.runtimeconfig.dev.json
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\bin\Debug\net5.0\Lotto_csv_manage.dll
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\bin\Debug\net5.0\ref\Lotto_csv_manage.dll
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\bin\Debug\net5.0\Lotto_csv_manage.pdb
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.csproj.AssemblyReference.cache
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.GeneratedMSBuildEditorConfig.editorconfig
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.AssemblyInfoInputs.cache
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.AssemblyInfo.cs
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.csproj.CoreCompileInputs.cache
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.dll
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\ref\Lotto_csv_manage.dll
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.pdb
+U:\Prg Python\12.B\Project-Lotto\projektandrassal\Lotto_csv_manage\Lotto_csv_manage\obj\Debug\net5.0\Lotto_csv_manage.genruntimeconfig.cache
