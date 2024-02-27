@@ -1,16 +1,74 @@
-#menu
-{
-
+#menu {
     height: 100%;
-    width: 15%;
+    width: 16%;
     position: fixed;
     z-index: 1;
-    bottom: 0;
+    top: 0;
     left: 0;
-    background-color: gray;     
+    background-color: gray;
     overflow-x: hidden;
     padding: 40px;
-    
+}
+
+.link {
+    color: rgb(0, 0, 0);
+    background-color: gray;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-left: 0;
+    margin-bottom: -18px;
+}
+
+.link:link, .link:visited, .link:hover, .link:active {
+    text-decoration: none;
+}
+
+#page {
+    text-align: center;
+}
+
+.lotto-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    background-color: black;
+    z-index: 1;
+}
+
+
+
+#lotto-image {
+    width: 100%;
+}
+
+#menu_pic {
+    position: relative;
+}
+
+
+#balls {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.ball-container {
+    text-align: center;
+    margin: 0 10px;
+}
+
+.ball-image {
+    width: 100px;
+}
+
+.ball-text {
+    font-size: 16px;
+    z-index: 1;
 }
 a {
     color: rgb(0, 0, 0);
@@ -40,18 +98,6 @@ a:hover {
 a:active {
     text-decoration: none;
 }
-#page{
-    text-align:center   
-}
-.lotto-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 24px;
-    color: white;
-}
-#lotto-image {
-    width: 100%;
-    border-radius: 50%; /* Kör alakú kép */
+body{
+    background-color: rgba(172, 170, 170, 0.664);
 }
