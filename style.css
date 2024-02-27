@@ -66,10 +66,7 @@
     width: 100px;
 }
 
-.ball-text {
-    font-size: 16px;
-    z-index: 1;
-}
+
 a {
     color: rgb(0, 0, 0);
     background-color: gray;
