@@ -1,0 +1,16 @@
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\bin\Debug\net5.0\csv_data_prg.exe
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\bin\Debug\net5.0\csv_data_prg.deps.json
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\bin\Debug\net5.0\csv_data_prg.runtimeconfig.json
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\bin\Debug\net5.0\csv_data_prg.runtimeconfig.dev.json
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\bin\Debug\net5.0\csv_data_prg.dll
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\bin\Debug\net5.0\ref\csv_data_prg.dll
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\bin\Debug\net5.0\csv_data_prg.pdb
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.csproj.AssemblyReference.cache
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.GeneratedMSBuildEditorConfig.editorconfig
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.AssemblyInfoInputs.cache
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.AssemblyInfo.cs
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.csproj.CoreCompileInputs.cache
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.dll
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\ref\csv_data_prg.dll
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.pdb
+U:\Prg Python\12.B\Project-Lotto\Project 2024.03.12\projektandrassal\csv_data_prg\csv_data_prg\obj\Debug\net5.0\csv_data_prg.genruntimeconfig.cache
