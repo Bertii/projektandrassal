@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "csv_data_prg/1.0.0": {
+        "runtime": {
+          "csv_data_prg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csv_data_prg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
